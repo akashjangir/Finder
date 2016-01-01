@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Finder</string>
+    <string name="db_name">finder</string>
+    <string name="database_finder_uri">mongodb://admin:connect@ds061278.mongolab.com:61278/finder</string>
+    <string name="registration_collection">user_registration</string>
+</resources>
